@@ -1,0 +1,5 @@
+Greeting.create!(greeting: 'Hello everyone')
+Greeting.create!(greeting: 'Hey everyone')
+Greeting.create!(greeting: 'Good day everyone')
+Greeting.create!(greeting: 'Greetings everyone')
+Greeting.create!(greeting: 'Good morning/evening')
